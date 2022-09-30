@@ -1,0 +1,11 @@
+body{
+    background-color: #a3f3f7;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #0275d8;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
